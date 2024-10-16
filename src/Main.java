@@ -44,7 +44,7 @@ public class Main {
             total=total+bankAccountIncome;
             System.out.println("Месяц " + i + " сумма накоплений равна " + total + " рублей" );
         }
-        // Задание 9!
+        // Задание 9
         float bankAccountIncome2 = 29000;
         float total_2 = 0;
         float bankPercent = 0.01f;
@@ -54,7 +54,7 @@ public class Main {
             total_2 = total_2 + percentIncome +bankAccountIncome2;
             System.out.println("Месяц " + i + " сумма накоплений равна " + total_2 + " рублей" );
         }
-        // Задание 10!
+        // Задание 10
         int multiplier = 2;
         int number = 1;
         for (int i = 1; i<=20; i=number*multiplier) {
